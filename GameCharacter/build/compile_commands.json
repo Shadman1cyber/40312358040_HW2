@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/sama/Desktop/GameCharacter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\game.dir\\main.cpp.obj -c C:\\Users\\sama\\Desktop\\GameCharacter\\main.cpp",
+  "file": "C:/Users/sama/Desktop/GameCharacter/main.cpp",
+  "output": "CMakeFiles/game.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/GameCharacter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\game.dir\\character.cpp.obj -c C:\\Users\\sama\\Desktop\\GameCharacter\\character.cpp",
+  "file": "C:/Users/sama/Desktop/GameCharacter/character.cpp",
+  "output": "CMakeFiles/game.dir/character.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/GameCharacter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\game.dir\\game.cpp.obj -c C:\\Users\\sama\\Desktop\\GameCharacter\\game.cpp",
+  "file": "C:/Users/sama/Desktop/GameCharacter/game.cpp",
+  "output": "CMakeFiles/game.dir/game.cpp.obj"
+}
+]

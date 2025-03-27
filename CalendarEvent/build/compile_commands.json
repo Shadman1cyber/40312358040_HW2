@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/sama/Desktop/CalendarEvent/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\calendar.dir\\main.cpp.obj -c C:\\Users\\sama\\Desktop\\CalendarEvent\\main.cpp",
+  "file": "C:/Users/sama/Desktop/CalendarEvent/main.cpp",
+  "output": "CMakeFiles/calendar.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/CalendarEvent/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\calendar.dir\\Event.cpp.obj -c C:\\Users\\sama\\Desktop\\CalendarEvent\\Event.cpp",
+  "file": "C:/Users/sama/Desktop/CalendarEvent/Event.cpp",
+  "output": "CMakeFiles/calendar.dir/Event.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/CalendarEvent/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\calendar.dir\\Calendar.cpp.obj -c C:\\Users\\sama\\Desktop\\CalendarEvent\\Calendar.cpp",
+  "file": "C:/Users/sama/Desktop/CalendarEvent/Calendar.cpp",
+  "output": "CMakeFiles/calendar.dir/Calendar.cpp.obj"
+}
+]
