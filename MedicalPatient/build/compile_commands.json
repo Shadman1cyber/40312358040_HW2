@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/sama/Desktop/MedicalPatient/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Patient.dir\\main.cpp.obj -c C:\\Users\\sama\\Desktop\\MedicalPatient\\main.cpp",
+  "file": "C:/Users/sama/Desktop/MedicalPatient/main.cpp",
+  "output": "CMakeFiles/Patient.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/MedicalPatient/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Patient.dir\\patient.cpp.obj -c C:\\Users\\sama\\Desktop\\MedicalPatient\\patient.cpp",
+  "file": "C:/Users/sama/Desktop/MedicalPatient/patient.cpp",
+  "output": "CMakeFiles/Patient.dir/patient.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/MedicalPatient/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Patient.dir\\hospital.cpp.obj -c C:\\Users\\sama\\Desktop\\MedicalPatient\\hospital.cpp",
+  "file": "C:/Users/sama/Desktop/MedicalPatient/hospital.cpp",
+  "output": "CMakeFiles/Patient.dir/hospital.cpp.obj"
+}
+]

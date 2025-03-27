@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Patient.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Patient.dir/objects.a @CMakeFiles\Patient.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Patient.dir/objects.a -Wl,--no-whole-archive -o Patient.exe -Wl,--out-implib,libPatient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Patient.dir\linkLibs.rsp
