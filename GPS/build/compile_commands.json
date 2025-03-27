@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/sama/Desktop/GPS/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\GPS.dir\\main.cpp.obj -c C:\\Users\\sama\\Desktop\\GPS\\main.cpp",
+  "file": "C:/Users/sama/Desktop/GPS/main.cpp",
+  "output": "CMakeFiles/GPS.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sama/Desktop/GPS/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\GPS.dir\\GPS.cpp.obj -c C:\\Users\\sama\\Desktop\\GPS\\GPS.cpp",
+  "file": "C:/Users/sama/Desktop/GPS/GPS.cpp",
+  "output": "CMakeFiles/GPS.dir/GPS.cpp.obj"
+}
+]
